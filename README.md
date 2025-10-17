@@ -13,6 +13,8 @@ An animation effect has been applied to the about section.
 
 ## features
 
-I will include Facebook and Instagram links.
-
 ![alt text](/images/screenshot.png)
+
+# Plans for improving
+
+I will provide Facebook and Instagram links.
