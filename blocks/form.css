@@ -19,7 +19,7 @@
 .form__label {
   display: block;
   color: #000;
-  font-family: "inter", Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
@@ -73,7 +73,8 @@
 }
 
 .form__checkbox:checked {
-  background: #1878dc url(../images/icon_check.svg);
+  background: url(../images/icon_check.svg);
+  background-color: #1878dc;
   background-size: 60%;
 }
 
