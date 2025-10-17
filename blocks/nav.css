@@ -14,8 +14,6 @@
   gap: 20px;
   padding: 0;
   margin: 0;
-  top: 30px;
-  right: 80px;
   list-style-type: none;
 }
 
@@ -29,9 +27,9 @@
   font-size: 16px;
   line-height: 20px;
   color: #000000;
-  transition: oppacity 0.5s;
+  transition: opacity 0.5s;
 }
 
 .nav__link:hover {
-  opacity: 50%;
+  opacity: 0.5;
 }

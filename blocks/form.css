@@ -3,7 +3,7 @@
 }
 
 .form__title {
-  font-family: "inter", Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
@@ -73,7 +73,7 @@
 }
 
 .form__checkbox:checked {
-  background: #1878dc url(../images/icon_check.svg) no-repeat center;
+  background: #1878dc url(../images/icon_check.svg);
   background-size: 60%;
 }
 
